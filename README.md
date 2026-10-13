@@ -69,4 +69,4 @@ When creating a new skill, please ensure it adheres to the [skill-creator guidel
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details>.
